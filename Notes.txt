@@ -1,0 +1,31 @@
+Measurements
+=> Absolute and relative units
+
+Absolute Units:- 
+1.cm => centimeters
+2.mm => millimeters
+3.in => inches ( 1in= 96px = 2.54cm)
+4.px => pixels (1px = 1/96th of inch)
+5.pt => points (1pt = 1/72 of inch)
+6.pc => picas(1pc = 12pt)
+
+Relative Units:-
+1.em => Relative to the font size of the element(2em means 2 times the size of the current font)
+2.rem => Relative to font-size of the root element.
+3.vw => Relative to the 1% of the width of the  viewports
+4.vh => Relative to the 1% of the height of the  viewports
+5.ch => Relative to the width of the "0"(zero)
+6.ex => Relative to x-height of the current font
+7.%  => relative to the parent element.
+8.vmin => Relative to the 1% of the viewports of smaller dimension
+9.vmax => Relative to the 1% of the viewports of larger dimension
+
+
+Bootstrap Breakpoints:-
+
+Extra small	        xs	       <576px
+Small	            sm	       ≥576px
+Medium	            md	       ≥768px
+Large	            lg	       ≥992px
+Extra large	        xl	       ≥1200px
+Extra extra large	xxl	       ≥1400px
